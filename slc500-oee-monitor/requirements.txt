@@ -1,0 +1,4 @@
+pylogix>=1.0
+matplotlib>=3.5
+reportlab>=3.6
+# Build the documentation only: pip install markdown

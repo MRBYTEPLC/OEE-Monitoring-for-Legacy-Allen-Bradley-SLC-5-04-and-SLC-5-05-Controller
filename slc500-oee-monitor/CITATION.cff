@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SLC 500 OEE Monitor: open-source OEE monitoring for legacy Allen-Bradley SLC 5/04 and 5/05 PLCs"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: "[Last name]"
+    given-names: "[First name]"
+repository-code: "https://github.com/[your-user]/slc500-oee-monitor"
+keywords: [OEE, PLC, SLC 500, legacy automation, smart manufacturing, ISO 22400, TPM]
