@@ -7,5 +7,5 @@ license: MIT
 authors:
   - family-names: "[Last name]"
     given-names: "[First name]"
-repository-code: "https://github.com/[your-user]/slc500-oee-monitor"
+repository-code: "https://github.com/MRBYTEPLC/OEE-Monitoring-for-Legacy-Allen-Bradley-SLC-5-04-and-SLC-5-05-Controller"
 keywords: [OEE, PLC, SLC 500, legacy automation, smart manufacturing, ISO 22400, TPM]
