@@ -1,4 +1,4 @@
-# 🏭 Open-Source OEE & Analytics for Legacy Allen-Bradley SLC 500 PLCs
+# Open-Source OEE & Analytics for Legacy Allen-Bradley SLC 500 PLCs
 
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Python Version](https://shields.io)](https://python.org)
